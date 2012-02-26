@@ -14,7 +14,7 @@ Installation is fairly painless on OSX.
 
     $ sudo pecl install xdebug
     
-* Note: Ignore the pecl prompt to add "extension=xdebug.so" to your php.ini - this will cause problems. *
+*Note: Ignore the pecl prompt to add "extension=xdebug.so" to your php.ini - this will cause problems.*
 
 ### Step 2:  Configure PHP to utilize xdebug
 
