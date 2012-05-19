@@ -6,4 +6,5 @@ This is where I am going to store my notes and snippets.
 * presentations - Stores notes related to presentations and slide decks.
 * OSX - Stores notes on OSX mainly related to CLI
 * PHP - Stores notes on PHP
-    * zf - Stores Zend Framework Notes
+    * zf - Stores Zend Framework Notes.
+
