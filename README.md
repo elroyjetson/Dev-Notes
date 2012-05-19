@@ -7,4 +7,5 @@ This is where I am going to store my notes and snippets.
 * OSX - Stores notes on OSX mainly related to CLI
 * PHP - Stores notes on PHP
     * zf - Stores Zend Framework Notes.
+* Kindle - Stores notes on useful Kindle tips
 
