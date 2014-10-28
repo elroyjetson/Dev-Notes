@@ -9,3 +9,5 @@ This is where I am going to store my notes and snippets.
     * zf - Stores Zend Framework Notes.
 * Kindle - Stores notes on useful Kindle tips
 * CentOS - Stores notes related to CentOS
+* Cordova - Stores notes related to Apache Cordova
+    * Android - Stores Android specific Apache Cordova notes
