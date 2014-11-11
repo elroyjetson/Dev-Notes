@@ -86,7 +86,7 @@ The build completed with now errors, so next thing I did was plugged in
 my Moto X with USB debugging turned on to run the app. You may need to
 make sure that adb is listening for devices, that is easy enough:
 
-    $adb device -l
+    $adb device
 
 If you see some output indicating a device, you are good to go, so time
 to run the app.
